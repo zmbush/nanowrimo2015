@@ -46,3 +46,23 @@ As he heads back into the office, he hears someone shouting from the direction o
 Perhaps this is Dave. Cormac doesn't really want to think about it. He sits back down at his desk
 and starts his mindless data entry anew. The final hours of the day pass without much incident,
 despite being unable to get his MacGuffin out of his head.
+
+He drives back home, parks next to his mom's car, and heads inside.
+
+"Cormac! What happened? I've been worried sick about you!", his mom sits visibly distraught in the
+kitchen.
+
+"I was at work", he says sitting across from her.
+
+"Work? What happened to your bedroom?"
+
+"Someone broke in and stole my MacGuffin."
+
+"God damnit Cormac, I knew you slept like the dead, but how could you sleep through a brick flying
+through your window?"
+
+He continued to tell her about what had happened that morning. His incident with the glass, sleeping
+through his alarm, and his rush to leave for work. She seemed satisfied with his answers, if not
+still quite upset.
+
+"Go clean that mess!", she barked after him as he walked up the stairs.
