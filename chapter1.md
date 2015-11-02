@@ -33,4 +33,18 @@ reaches for the box of gauze to wrap his foot. Empty.
 
 "Mom!?", he shouts to no reply.
 
+After calling several more times and waiting a few minutes, he starts to walk downstairs. The main
+bathroom always has more bandages. With his foot wrapped in the towel, it doesn't hurt as much, but
+he still winces every time he steps down. He reaches the bathroom, and finally manages to bandage
+his foot. He continues to walk on his toes as he pulls himself back upstairs.
 
+During this endeavour, he had given little thought to why there was a piece of glass on his floor.
+He also hadn't considered that the glass and his open window might be related, but as he reached his
+bedroom again, it was obvious. In the center of the room there was a brick, and surrounding it,
+there were pieces of his window strewn about the room. The papers from his desk were strewn around
+the room, and his computer monitor was laying on the floor.
+
+At first glance, he couldn't tell if anything was taken. Most of his stuff just seemed to be in
+disarray. He picked up his cell phone from his bedside table, and checked the time. He put the phone
+in his pocket before it hit him. 12:30. He had slept through his alarm for the fourth time this
+month.
