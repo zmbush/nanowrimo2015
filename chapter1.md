@@ -46,5 +46,11 @@ the room, and his computer monitor was laying on the floor.
 
 At first glance, he couldn't tell if anything was taken. Most of his stuff just seemed to be in
 disarray. He picked up his cell phone from his bedside table, and checked the time. He put the phone
-in his pocket before it hit him. 12:30. He had slept through his alarm for the fourth time this
+in his pocket before it hit him. 8:45. He had slept through his alarm for the fourth time this
 month.
+
+"Fuck, I've only got 15 minutes!", he shouts as he starts an adrenaline filled morning routine. The
+bathroom was still covered in blood, so he skipped brushing his teeth. He was dressed and heading
+out the door in 5 minutes flat. He picked up his phone, wallet, and watch, and put them in their
+appropriate places. He then reached down again for his MacGuffin. Gone. Someone had stolen his
+MacGuffin.
