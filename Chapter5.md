@@ -1,4 +1,4 @@
-Chapter 5: Burning Curiosity
+# Chapter 5: Burning Curiosity
 
 The next morning was rather uneventful. He woke up with his alarm, and made it to work at the usual time. He spent most of the morning trying to identify the key online, while switching back to data entry any time someone looked his way. He managed to identify it as the key to a display cabinet. The same kind that was in his father's study.
 
