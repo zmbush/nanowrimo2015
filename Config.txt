@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: The Incident
+- type: subtitle
+  text: A slacker makes a change
+author: Zachary Bush
+rights: © 2015 Zachary Bush
+lang: en-US
+stylesheet: styles.css
+cover-image: images/cover.jpg
+...
