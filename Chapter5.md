@@ -11,3 +11,11 @@ He picks up one of the trophies and examines it. It looks like what he would exp
 The carpet in the center of the room is pulled down through the floor, and the floor boards sink to form a spiral staircase down to who knows what. Cormac heads down the staircase. It is a tight fit, and leaves very little headroom, but he is able to squeeze down it. As the room above him becomes obscured by the very stairs he walks down, he hears them slide back up to presumably return the floor to its pristine state.
 
 He walks down for what seems like hours, as he fully begins to realize why he and his mother were never allowed into his father's study. As he reached the bottom of the stairs, the narrow hallway opened up into a rather large open room. The walls and floors were concrete. There were tables lined up next to the walls, and there were several large monitors mounted against the back wall.
+
+Unlike the room above, this one did not share the layers of dust. It seemed, in fact, to be striving for a level of cleanliness to rival the most stringent operating room. The slight scent of bleach filled the air, and it was so cold that Cormac had a hard time even breathing in.
+
+He looked back towards the staircase he had just walked down to find nothing but a smooth cement wall with nothing but a thin crack to betray the passageway behind. Cormac's heart began to race as his eyes darted around the room. The stainless steel tables bereft of any sign of use, the huge screens taking up nearly all of his field of view, and the oppressive air in the place combined and the sense of panic started to well up in the pit of his stomach.
+
+The sound of the room pressed in like someone was crushing his head with a pair of pillows, the hum of no sound at all was deafening. He strained to hear any sound at all but only heard the sound of his own heavy breathing. When the tiny computer console in the corner of the room started whirring and making tiny beeping noises, his acutely straining ears turned it into a jet plane taking off.
+
+His attention was drawn entirely towards the screen above the console that flickered to life. The screen was completely black save for the sentence "console login:" in bright white font. A white box pulsed rhythmically next to the colon beckoning Cormac forward.
