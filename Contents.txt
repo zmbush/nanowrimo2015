@@ -6,3 +6,4 @@ Chapter4.md
 Chapter5.md
 Chapter6.md
 Chapter7.md
+Chapter8.md
