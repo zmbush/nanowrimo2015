@@ -1,0 +1,7 @@
+# Chapter 7: Agent Anderson
+
+"He's pretty pathetic, isn't he?" came a voice from his right. "Are you sure he's your son Anderson?". "He'll get there" was all he could bring himself to say. He couldn't help but feel a bit disappointed in Cormac. Holden "Condor" Anderson was a decorated agent of The Spy Agency, nearly the top ranking field operative in the entire organization, and he had just witnessed his son fail miserably at the most basic of aptitude tests. He should have had all of the information he needed on hand. The note was barely hidden, and the password could easily be derived from the MacGuffin he had left with him! Come to think of it, Cormac didn't even seem to have the MacGuffin on him.
+
+In his son's entire life, Holden had only ever made a single request: "Keep the MacGuffin with you at all times". Still, even if he _had_ kept it with him, he still panicked in what should not have been a particularly stressful situation. Holden couldn't figure out why Cormac was unable to recall any of the training that his father had given him as a child. He was sure he had given him all the appropriate... "Holden!" came the voice of his commanding officer, knocking him out of his reverie. "You know, most recruits wouldn't even get a second test after a performance like that. But since he's your son, we're willing to give him another chance".
+
+Holden just stared forward at the image of his son sleeping in his bed.
