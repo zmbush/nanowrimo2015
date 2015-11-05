@@ -6,7 +6,7 @@ title:
   text: A slacker makes a change
 author: Zachary Bush
 rights: © 2015 Zachary Bush
-lang: en-US
+lang: english
 stylesheet: styles.css
 cover-image: images/cover.jpg
 ...
