@@ -1,4 +1,4 @@
-FORMATS=epub odt docx pdf
+FORMATS=epub odt docx pdf txt
 TITLE=The Incident
 OUT_DIR=output
 
@@ -20,7 +20,7 @@ $(OUT_FILES): Config.txt $(shell cat Contents.txt)
 
 DAY ?= $(shell date +'%d')
 DAY_WORDS = $(shell bc <<< "$(DAY) * 50000 / 30")
-CURRENT_WORDS = $(shell wc -w Chapter*.md | grep total | cut -d' ' -f2)
+CURRENT_WORDS = $(shell wc -w $(shell cat Contents.txt) | grep total | cut -d' ' -f2)
 NEEDED_WORDS = $(shell bc <<< "$(DAY_WORDS) - $(CURRENT_WORDS)")
 
 .PHONY: words
