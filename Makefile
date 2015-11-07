@@ -22,6 +22,7 @@ $(OUT_FILES): Config.txt $(shell cat Contents.txt)
 	@pandoc -o $@ $^
 
 DAY ?= $(shell date +'%d')
+GOAL ?= 1666
 .PHONY: words
 words:
-	@./script/words.sh $(DAY)
+	@./script/words.sh $(DAY) $(GOAL)

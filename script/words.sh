@@ -1,6 +1,7 @@
 #!/bin/bash
 
-DAY=$1
+DAY=${1-$(date +'%d')}
+DAILY_GOAL=${2-1666}
 DAY_WORDS=$(bc <<< "$DAY * 50000 / 30")
 CURRENT_WORDS=$(wc -w `cat Contents.txt` | grep total | sed -e 's/^ *//' | cut -d' ' -f1)
 NEEDED_WORDS=$(bc <<< "$DAY_WORDS - $CURRENT_WORDS")
@@ -14,11 +15,12 @@ LAST_DAY_WORDS=$(
   wc -w `cat Contents.txt` | grep total | sed -e 's/^ *//' | cut -d' ' -f1
 )
 WORDS_WRITTEN_TODAY=$(bc <<< "$CURRENT_WORDS - $LAST_DAY_WORDS")
-NEEDED_FOR_DAY_COUNT=$(bc <<< "1666 - $WORDS_WRITTEN_TODAY")
+NEEDED_FOR_DAY_COUNT=$(bc <<< "$DAILY_GOAL - $WORDS_WRITTEN_TODAY")
 
-echo "Words needed today:           $DAY_WORDS"
-echo "Words written so far:         $CURRENT_WORDS"
-echo "Words written today:          $WORDS_WRITTEN_TODAY"
 echo
-echo "Words remaining:              $NEEDED_WORDS"
-echo "Words written for day count:  $NEEDED_FOR_DAY_COUNT"
+echo "  Needed today:   $DAY_WORDS"
+echo "  Written so far: $CURRENT_WORDS"
+echo "  Written today:  $WORDS_WRITTEN_TODAY"
+echo
+echo "  Remaining:      $NEEDED_WORDS"
+echo "  Day count left: $NEEDED_FOR_DAY_COUNT"
