@@ -1,4 +1,4 @@
-# Chapter 9:
+# Chapter 9: Desperate times
 
 "What do you mean you haven't started training him yet?" an irate agent Anderson cried out "You were supposed to get started 2 months ago!" The diminutive face of Earl Wilson was blown up to two feet tall on the screen in front of Holden. The small man squirmed uncomfortably as he replied "He is being... Difficult" and couldn't help but betray a small flinch. "He's being difficult? Difficult!? He's a fucking Anderson for Christ's sake. He's going to do this job and he's going to like it!" his face started to go slightly red as he screamed at Mr. Wilson. "I'll see what I can do" responded the midget quietly. "You'd better!", raged Holden, "Or I'll make you even less of a man than you already are." The screen went black as The Condor slammed his hand down onto the hang up button.
 
