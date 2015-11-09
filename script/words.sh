@@ -24,3 +24,4 @@ echo "  Written today:  $WORDS_WRITTEN_TODAY"
 echo
 echo "  Remaining:      $NEEDED_WORDS"
 echo "  Day count left: $NEEDED_FOR_DAY_COUNT"
+echo
