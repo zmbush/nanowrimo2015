@@ -7,7 +7,7 @@ space :=
 space +=
 
 FIXED_TITLE=$(subst $(space),-,$(TITLE))
-OUT_PREFIX=$(OUT_DIR)/$(FIXED_TITLE)-$(shell date +'%Y-%m-%d')
+OUT_PREFIX=$(OUT_DIR)/$(FIXED_TITLE)-$(shell git describe --dirty=-DRAFT)
 OUT_FILES=$(addprefix $(OUT_PREFIX).,$(FORMATS))
 
 all: $(FORMATS)
