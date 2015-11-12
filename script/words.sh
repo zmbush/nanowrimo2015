@@ -17,6 +17,8 @@ LAST_DAY_WORDS=$(
 WORDS_WRITTEN_TODAY=$(bc <<< "$CURRENT_WORDS - $LAST_DAY_WORDS")
 NEEDED_FOR_DAY_COUNT=$(bc <<< "$DAILY_GOAL - $WORDS_WRITTEN_TODAY")
 
+BATTERY=$(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep percentage | tr -s ' ' | cut -d' ' -f3)
+
 echo
 echo "  Needed today:   $DAY_WORDS"
 echo "  Written so far: $CURRENT_WORDS"
@@ -24,4 +26,6 @@ echo "  Written today:  $WORDS_WRITTEN_TODAY"
 echo
 echo "  Remaining:      $NEEDED_WORDS"
 echo "  Day count left: $NEEDED_FOR_DAY_COUNT"
+echo
+echo "  Battery:        $BATTERY"
 echo
