@@ -35,5 +35,5 @@ He began to scan down the information on the left side of the screen, perhaps to
     Age: 57
     Current Address: 88 Lakewood Parkway, Burlington Vermont
     Police reports: None
-    
+
 His eyes rested on the one thing that seemed to laugh in the face of everything he had believed for the past eight months, everything that Mr. Wilson had told him during training. Everything he had come to accept in the long hours of training. His mother, according to the TSA database, was alive. According to one of the most exhaustive databases of humans on earth, living or dead, and it claimed she was alive. The woman that he had seen, dead in a pool of her own blood.
