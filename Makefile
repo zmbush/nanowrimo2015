@@ -19,7 +19,7 @@ $(FORMATS): %:$(OUT_PREFIX).%
 $(OUT_FILES): Config.txt $(shell cat Contents.txt)
 	@mkdir -p $(OUT_DIR)
 	@echo "[Build] $@"
-	@pandoc -o $@ $^
+	@pandoc --chapters -o $@ $^
 
 DAY ?= $(shell date +'%d')
 GOAL ?= 1666

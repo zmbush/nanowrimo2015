@@ -1,4 +1,4 @@
-# Chapter 13: Phoenix Rise
+# Phoenix Rise
 
 Cormac stood there in the clearing, holding the small piece of paper. He couldn't be sure, but he convinced himself that it was a note from Mr. Wilson. The boy felt confused, and mildly sad that the small man wasn't there to congratulate him. His only human interaction for the last several months had been Earl, taking him to and from his training sessions. The boy leaned against the ATV and couldn't quite figure out what he was supposed to be doing. He could remember that there had been a reason why he had started the training, but for the life of him he couldn't remember what. The only reasonable thing left for him to do, he decided, was to follow the gravel path as far as it would lead him. He mounted the vehicle that had been left for him, donned the helmet, and turned towards the exit of the clearing.
 

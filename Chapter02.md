@@ -1,4 +1,4 @@
-# Chapter 2: Chipotle and Intrigue
+# Chipotle and Intrigue
 
 Cormac froze in the middle if his ransacked room. So far as he could tell, nothing in his room had been taken, except that. His phone starts to vibrate in his pocket "10 minutes until work". Not wanting to be late again, he is forced to leave. His foot is still aching on every step, but he continues down stairs, and to his car.
 

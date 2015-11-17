@@ -1,4 +1,4 @@
-# Chapter 10: Company Man
+# Company Man
 
 Cormac was running away from the demented dwarf as he had become so accustomed to over the last month. He had gotten to the point lately that he was able to outstrip the tiny man almost every time he tried, but today he felt Mr. Wilson's arms wrap around his leg and felt his leg slip out from under him. The boy didn't have any time to properly react as he saw the icy ground hurtling up to meet him. He attempted to lift his arms to protect his face, but only succeeded in punching himself in the chest. He felt blood dripping down his neck and out of his nose, but all he could think about was how much he just wanted to murder this little asshole. He hadn't been able to properly relax for the last 2 months, and it was starting to take its toll on him. After asking the little man what he wanted, Cormac listened to the endlessly rehashed story of "I need you to listen to me" and "Your father is going to kill me". If the fucking prick wanted him to do something, he was going to have to come to Cambridge and make him. After not seeing him for 3 years, this hardly seemed likely.
 

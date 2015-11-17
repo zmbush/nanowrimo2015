@@ -1,4 +1,4 @@
-# Chapter 14: Bachelorhood
+# Bachelorhood
 
 Cormac carefully peeled the duct tape away from the wall that it had been bonded to for the last year. The strings of adhesive pulled with all their might to hold the plastic bag onto the wall, but ultimately could not hold. Grey residue was left on the wall in regular rectangles everywhere there had been a piece of tape. The bag fell down as the last of the tape holding the top of it was released, it flopped over and fell on top of Cormac's head. He was half way through removing it from his head when he heard footsteps outside his door, and heard a women's voice say "Hello? Is anyone there?". The boy was taken aback by how familiar the voice sounded, he stood there and berated himself for not picking up a gun from one of the stash points along his trip home. His hand-to-hand combat training would have to suffice. He slid out from under the plastic bag, and moved silently to the door. He saw the door handle rattle, and he steadied himself, he was positioned such that the opening door would obscure him, and give him a chance to get a look at the trespasser.
 

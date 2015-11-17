@@ -1,4 +1,4 @@
-# Chapter 6: Stuck
+# Stuck
 
 As his body calmed down, he started to become more aware of the sounds in the room. He could once again hear his breathing, he could hear his heartbeat in his ears, but he could no longer hear the fan from the computer. He lifted his head to look towards his only chance of rescue, and saw that the screen had turned black.
 

@@ -1,4 +1,4 @@
-# Chapter 1: The incident
+# The incident
 
 The fall air comes rushing through Cormac Anderson's open window. Ripples of air play across his face and make it very difficult for him to continue sleeping. Sleeping is one of the few things he enjoy these days.  He think back to last night, and to the endless stream of netflix and popcorn. He can't recall leaving his window open. He never leaves it open this time of year, it always gets too cold at night. Why would He have left it open? He can't remember.
 

@@ -1,4 +1,4 @@
-# Chapter 3: Discovery
+# Discovery
 
 As Cormac reached the top of the stairs he gazed upon the ransacked mess of his bedroom. His mom had cleaned up the glass, but nothing else. He began to put his room back in order, hoping in vain that his MacGuffin would be somewhere in the room. Once he had made a first pass at cleaning up, he began to realize that he may never get his MacGuffin back.
 

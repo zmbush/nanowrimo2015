@@ -1,4 +1,4 @@
-# Chapter 4: Paperwork
+# Paperwork
 
 Cormac spun on his heels to look back at the room, but nothing had changed since the last time he looked at it. He put his hand on the book, and turned to look around the room. He pressed it. Click. It wasn't coming from the door. Click. Not the trophy case either. Click. It seems like it's coming from the desk. Click. Yes, it's got to be the desk.
 
