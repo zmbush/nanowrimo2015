@@ -16,3 +16,5 @@ Chapter14.md
 Chapter15.md
 Chapter16.md
 Chapter17.md
+Chapter18.md
+Chapter19.md
