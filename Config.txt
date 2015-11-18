@@ -8,5 +8,5 @@ author: Zachary Bush
 rights: © 2015 Zachary Bush
 lang: english
 stylesheet: styles.css
-cover-image: images/cover.jpg
+cover-image: /tmp/nano-cover.jpg
 ...
