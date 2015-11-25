@@ -22,3 +22,4 @@ Chapter20.md
 Chapter21.md
 Chapter22.md
 Chapter23.md
+Chapter24.md

@@ -20,7 +20,7 @@ $(FORMATS): %:$(OUT_PREFIX).%
 $(OUT_FILES): Config.txt $(shell cat Contents.txt)
 	@mkdir -p $(OUT_DIR)
 	@echo "[Build] $@"
-	@pandoc -V --chapters -o $@ $^
+	@pandoc --toc --chapters -V documentclass=report -o $@ $^
 
 /tmp/nano-cover.jpg: images/cover2.jpg
 	convert $^ \
