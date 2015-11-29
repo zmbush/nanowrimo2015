@@ -24,3 +24,4 @@ Chapter22.md
 Chapter23.md
 Chapter24.md
 Chapter25.md
+Chapter26.md
